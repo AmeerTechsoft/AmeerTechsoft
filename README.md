@@ -1,4 +1,4 @@
-# GitHub Bio Readme
+# Ameer Adeigbe BIO
 
 Welcome to my GitHub profile! Here's a brief overview of me as a Python developer with interests in web development (Django, Flask, and Fast API) and data science. 👨‍💻🌐📊
 
