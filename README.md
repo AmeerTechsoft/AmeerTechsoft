@@ -1,13 +1,13 @@
 # GitHub Bio Readme
 
-Welcome to my GitHub profile! Here's a brief overview of me as a Python developer with interests in web development (Django and Flask) and data science. 👨‍💻🌐📊
+Welcome to my GitHub profile! Here's a brief overview of me as a Python developer with interests in web development (Django, Flask, and Fast API) and data science. 👨‍💻🌐📊
 
 ## About Me
 
 I am Ameer Adeigbe, an IT consultant at Tech. I work with technology across the board, from data modeling and analysis to real-time programming. My expertise lies in Python software development, data analysis, web development, and Mechatronics.
 ## Web Development
 
-I have experience using Django and Flask for web development. 
+I have experience using Django, Flask, and Fast API for web development. 
 
 ## Data Science
 
@@ -16,7 +16,7 @@ I leverage Python and various libraries for data analysis and insights.
 ## Technologies and Tools
 
 - Programming languages: Python
-- Web frameworks: Django, Flask
+- Web frameworks: Django, Flask, Fast API
 - Data science libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
 - Databases: PostgreSQL, MySQL, SQLite
 - Version control: Git, GitHub
