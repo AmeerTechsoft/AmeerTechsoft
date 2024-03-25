@@ -4,14 +4,14 @@ Welcome to my GitHub profile! Here's a brief overview of me as a Python develope
 
 ## About Me
 
-I am Ameer Adeigbe, an IT consultant at Tech. I work with technology across the board, from data modeling and analysis to real-time programming. My expertise lies in Python software development, data analysis, web development, and Mechatronics.
+I am Ameer Adeigbe, an IT consultant at Tech. I work with technology across the board, from data modeling & analysis and predictive analysis to real-time programming. My expertise lies in Python software development, data analysis, web development, and Mechatronics.
 ## Web Development
 
 I have experience using Django, Flask, and Fast API for web development. 
 
 ## Data Science
 
-I leverage Python and various libraries for data analysis and insights.
+I leverage Python and various libraries for data science & analysis insights.
 
 ## Technologies and Tools
 
