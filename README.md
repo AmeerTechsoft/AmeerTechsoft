@@ -2,10 +2,11 @@
 
 Software Engineer & Data Scientist
 
-<div style="background-color:#000; color:#39FF14; padding:16px; border-radius:8px; font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace; font-size:14px; line-height:1.6;">
-<span style="color:#7CFC00;">$ whoami</span><br/>
-Ameer Adeigbe — Software Engineer &amp; Data Scientist
-</div>
+```bash
+$ whoami
+Ameer Adeigbe — Software Engineer & Data Scientist
+
+```
 
 ## Summary
 
